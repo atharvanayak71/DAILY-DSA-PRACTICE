@@ -66,6 +66,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +98,12 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
