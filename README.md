@@ -74,6 +74,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Stack
 |  |
@@ -94,6 +95,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -116,6 +118,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Queue
@@ -128,6 +131,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0229-majority-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,6 +149,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +158,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
