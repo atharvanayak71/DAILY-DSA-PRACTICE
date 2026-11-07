@@ -50,6 +50,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0229-majority-element-ii) |
@@ -114,6 +115,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -163,6 +165,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
