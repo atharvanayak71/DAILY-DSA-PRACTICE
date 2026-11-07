@@ -52,6 +52,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +69,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -87,6 +89,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Math
 |  |
@@ -150,10 +153,12 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
