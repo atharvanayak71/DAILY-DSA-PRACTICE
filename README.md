@@ -64,6 +64,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
@@ -138,6 +139,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Queue
 |  |
 | ------- |
