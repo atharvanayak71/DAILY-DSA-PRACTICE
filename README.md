@@ -55,6 +55,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -120,6 +122,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
