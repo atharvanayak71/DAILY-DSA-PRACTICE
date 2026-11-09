@@ -99,6 +99,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,6 +128,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -198,4 +200,8 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
