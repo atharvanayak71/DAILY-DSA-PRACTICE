@@ -5,6 +5,7 @@ class Solution {
         
         for(int kela : piles){
             high = Math.max(high, kela);
+            low = Math.min(low, kela);
         }
         int ans = high;
         while(low<=high){
