@@ -211,6 +211,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0461-hamming-distance) |
 ## Newton's Method
 |  |
 | ------- |
