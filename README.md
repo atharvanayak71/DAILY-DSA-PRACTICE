@@ -68,6 +68,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -144,6 +145,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Queue
