@@ -1,6 +1,6 @@
 class Solution {
     public int longestMonotonicSubarray(int[] nums) {
-        int start = 0;
+        //int start = 0;
         int currLength = 1;
         int maxLength = 1;
         int n = nums.length;
@@ -11,13 +11,13 @@ class Solution {
                 currLength++;
             }else{
                 maxLength = Math.max(maxLength, currLength);
-                start = end;
+                //start = end;
                 currLength = 1;
             }
         }
         maxLength = Math.max(currLength, maxLength);
         currLength = 1;
-        start = 0;
+        //start = 0;
 
         
         //Strictly Decreasing;
@@ -26,7 +26,7 @@ class Solution {
                 currLength++;
             }else{
                 maxLength = Math.max(maxLength, currLength);
-                start = end;
+                //start = end;
                 currLength = 1;
             }
         }
