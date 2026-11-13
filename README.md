@@ -78,6 +78,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -105,6 +106,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -230,10 +234,12 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -246,4 +252,8 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
