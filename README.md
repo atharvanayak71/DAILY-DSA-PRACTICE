@@ -67,6 +67,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0875-koko-eating-bananas](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -91,6 +92,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String
@@ -105,6 +107,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
