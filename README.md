@@ -100,6 +100,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -110,6 +111,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -119,6 +121,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
