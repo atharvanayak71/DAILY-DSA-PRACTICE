@@ -79,6 +79,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
@@ -237,6 +238,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
@@ -255,6 +257,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
 | ------- |
