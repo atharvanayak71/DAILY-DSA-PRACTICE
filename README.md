@@ -73,6 +73,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
@@ -126,6 +127,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -201,6 +203,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -269,6 +272,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
