@@ -66,6 +66,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -136,6 +137,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0387-first-unique-character-in-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -263,6 +265,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Segment Tree
 |  |
