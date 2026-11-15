@@ -122,6 +122,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
@@ -283,6 +284,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
 ## Number Theory
 |  |
