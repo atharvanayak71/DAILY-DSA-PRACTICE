@@ -66,6 +66,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
@@ -115,6 +116,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
+| [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -212,6 +214,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
