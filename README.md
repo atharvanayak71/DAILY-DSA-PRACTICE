@@ -133,6 +133,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2413-smallest-even-multiple](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2413-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
@@ -210,6 +211,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
@@ -291,8 +293,13 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0050-powx-n](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
+| [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2413-smallest-even-multiple) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
