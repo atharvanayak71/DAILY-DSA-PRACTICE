@@ -128,6 +128,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0009-palindrome-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
@@ -209,6 +210,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
@@ -301,5 +303,6 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
