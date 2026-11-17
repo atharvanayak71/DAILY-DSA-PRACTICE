@@ -319,4 +319,12 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
