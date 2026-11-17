@@ -53,6 +53,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
@@ -257,6 +258,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0461-hamming-distance) |
 ## Newton's Method
@@ -313,4 +315,8 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
