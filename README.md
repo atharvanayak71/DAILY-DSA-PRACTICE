@@ -84,6 +84,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -199,6 +200,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2733-neither-minimum-nor-maximum) |
 ## Queue
 |  |
@@ -288,6 +290,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
