@@ -53,6 +53,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
@@ -322,6 +323,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 ## Linked List
 |  |
