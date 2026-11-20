@@ -72,6 +72,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -102,6 +103,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -125,6 +127,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
