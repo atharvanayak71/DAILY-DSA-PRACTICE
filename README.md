@@ -150,6 +150,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2413-smallest-even-multiple](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
