@@ -147,6 +147,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0263-ugly-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2413-smallest-even-multiple](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2413-smallest-even-multiple) |
