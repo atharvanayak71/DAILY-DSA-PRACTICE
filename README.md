@@ -125,6 +125,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -344,4 +345,16 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0707-design-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
