@@ -339,6 +339,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0039-combination-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 ## Linked List
 |  |
