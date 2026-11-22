@@ -118,6 +118,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
