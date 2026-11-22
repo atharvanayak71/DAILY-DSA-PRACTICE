@@ -7,15 +7,18 @@ class Solution {
        return result;
     }
     public void backtrack(int start, ArrayList<Integer> temp, int n, int k){
+        
+        if(temp.size()==k){
+            result.add(new ArrayList<>(temp));
+            return;
+        }
+
         for(int i=start; i<=n; i++){
             temp.add(i);
             backtrack(i+1,temp,n,k);
             temp.remove(temp.size()-1);
         }
 
-        if(temp.size()==k){
-            result.add(new ArrayList<>(temp));
-            return;
-        }
+        
     }
 }
