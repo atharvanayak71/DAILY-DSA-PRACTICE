@@ -81,6 +81,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0974-subarray-sums-divisible-by-k](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -109,6 +110,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0735-asteroid-collision](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -138,6 +140,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0735-asteroid-collision](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
