@@ -56,6 +56,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0040-combination-sum-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -232,6 +233,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
@@ -264,6 +266,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
