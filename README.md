@@ -52,6 +52,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
@@ -183,6 +184,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0349-intersection-of-two-arrays) |
@@ -209,6 +211,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
