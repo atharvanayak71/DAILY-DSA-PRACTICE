@@ -61,6 +61,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0053-maximum-subarray](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
+| [0137-single-number-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0198-house-robber) |
@@ -292,6 +293,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 |  |
 | ------- |
 | [0078-subsets](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0461-hamming-distance) |
 ## Newton's Method
