@@ -381,6 +381,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -393,6 +394,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -407,6 +409,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0144-binary-tree-preorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -416,6 +419,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
