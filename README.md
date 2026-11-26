@@ -117,6 +117,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [1920-build-array-from-permutation](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -166,6 +167,7 @@ I believe in consistency over intensity. Every problem solved is another step to
 | [2413-smallest-even-multiple](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/atharvanayak71/DAILY-DSA-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
